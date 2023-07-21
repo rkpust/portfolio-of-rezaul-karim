@@ -1,4 +1,7 @@
-# portfolio
+<<<<<<< HEAD
+# Portfolio of Rezaul Karim
+
+This is Rezaul Karim's Portfolio which is built with Vue.js ,Tailwind CSS and HTML.
 
 This template should help get you started developing with Vue 3 in Vite.
 
